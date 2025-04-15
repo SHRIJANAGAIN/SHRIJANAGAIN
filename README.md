@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @SHRIJANAGAIN
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
+  <h1>🔥 Yo, I’m @SHRIJANAGAIN! 🌌</h1>
+  <p><em>Coding epic adventures, one line at a time</em></p>
+</div>
 
-<!---
-SHRIJANAGAIN/SHRIJANAGAIN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 💻 Code Base
+- 🛠️ **Building**: Apps & scripts that turn heads  
+- 📚 **Learning**: Tech stacks to rule the game  
+- 🤝 **Collab Vibes**: Open-source projects with big energy  
+- ✉️ **Reach Me**: gkride@collector.org / shrijansidhi2@gmail.com
+-
+- 💥 **Fun Fact**: My code’s got more dazzle than a gold chrome whip! 🍕✨  
+
+---
+
+### 🛠️ Tech Stack
+```plaintext
+💻 Languages: [e.g., Python, JavaScript, Go]
+🛠️ Tools: [e.g., Docker, VS Code, Git]
+🌐 Frameworks: [e.g., React, Node.js, Django]
