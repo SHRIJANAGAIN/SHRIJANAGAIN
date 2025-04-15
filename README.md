@@ -1,3 +1,4 @@
+![1000018185](https://github.com/user-attachments/assets/47f9267b-ad74-4e48-92ce-fbdfdb61185b)
 <div align="center">
   <h1>🔥 Yo, I’m @SHRIJANAGAIN! 🌌</h1>
   <p><em>Coding epic adventures, one line at a time</em></p>
