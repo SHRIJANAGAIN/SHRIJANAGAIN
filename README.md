@@ -10,6 +10,9 @@ https://github.com/user-attachments/assets/f60a019a-d876-48ca-a887-d0fbbf9595da
 </div>
 
 ---
+Hi there! 👋 Just a friendly face exploring the digital world, one line of code (or design, or idea!) at a time. Always learning and happy to connect! 😊
+
+
 
 ### 💻 Code Base
 - 🛠️ **Building**: Apps & scripts that turn heads  
@@ -26,3 +29,5 @@ https://github.com/user-attachments/assets/f60a019a-d876-48ca-a887-d0fbbf9595da
 💻 Languages: [e.g., Python, JavaScript, Go]
 🛠️ Tools: [e.g., Docker, VS Code, Git]
 🌐 Frameworks: [e.g., React, Node.js, Django]
+
+
