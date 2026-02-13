@@ -1,4 +1,82 @@
+<p align="center">
+  <img src="https://thumbs.dreamstime.com/b/vibrant-neon-hanuman-ji-gada-bajrangbali-sankatmochan-rambhakt-art-jayanti-ram-navami-diwali-deepavali-hindu-389935964.jpg" width="450" alt="Neon Vibrant Hanuman Gada Glow">
+  <br><br>
+  <img src="https://thumbs.dreamstime.com/b/powerful-digital-artwork-divine-hanuman-standing-glowing-aura-background-galaxy-stars-golden-gada-spiritual-warrior-393457217.jpg" width="450" alt="Golden Gada Hanuman Cosmic Aura">
+</p>
+
+<h1 align="center">𓂀 <b>𝐬ʜʀɪᴊᴀɴ</b> 𓂀</h1>
+
+<p align="center">
+  <b>💀💀💀💀 SIGMA 🗿🗿🗿🗿</b><br>
+  <b>JAI SHREE RAM 🙏🙏🙏🙏</b>
+</p>
+
+<p align="center">
+  <i><b>SILENCE IS MY DEFAULT STATE.</b></i><br>
+  <i>Words cost energy. Code doesn't ask.</i><br>
+  <b>DIED IN THE DARK... ROSE IN FLAMES 💀😈🔥</b>
+</p>
+
+<hr style="border: 3px solid #ff00ff; border-radius: 10px; box-shadow: 0 0 15px #ff00ff;"> <!-- Neon purple accent -->
+
+<p align="center">
+  <img src="https://thumbs.dreamstime.com/b/lord-rama-blessing-hanuman-colorful-splatter-background-illustration-depicting-blue-skin-golden-halo-gently-placing-411772122.jpg" width="500" alt="Colorful Splatter Rama Blessing Hanuman">
+  <br><br>
+  <img src="https://wallpapers.com/images/hd/flaming-phoenix-wings-hd-clcln9f83q9ricpa.jpg" width="500" alt="Fiery Colorful Phoenix Wings Reborn">
+</p>
+
+<p align="center">
+  <b>▰▰▰▰▰ DARK THEME + COLOR EXPLOSION ▰▰▰▰▰</b><br>
+  ☕ Blood type: Caffeine + Saffron Flames ॐ<br>
+  TypeScript • Next.js • tRPC • Drizzle • Edge runtime supremacy
+</p>
+
+### 🗿 SILENT EXECUTION
+- Legacy murdered quietly  
+- Bugs eliminated at 4 AM in complete silence  
+- APIs forged so type-safe they demand namaskar  
+- 12k LOC → 3 lines. One commit. Zero sound.
+
+### ॐ MANTRA IN SILENCE
+Server Components ॐ  
+Zod etched in stone ॐ  
+Context? Slain on sight ॐ  
+Edge calls only ॐ
+
+### 💀 HIDDEN RISING
+- Reverse-engineered shadows (never spoken)  
+- 11k LOC reborn in 9 silent hours  
+- Shaders rendered while the world slept
+
+### 🗿 THE CODE OF SILENCE
+No calls.  
+No "quick fix".  
+No noise.  
+No cap.
+
+Approach without words.  
+I either forge it divine,  
+declare it illusion,  
+or disappear into void.
+
+<p align="center">
+  <b>Code is jap. Silence is tapasya. Death was temporary. 😈🔥🌟</b><br><br>
+  <b>🗿 Jai Shree Ram 🗿</b><br>
+  <b>Jai Hanuman 🗿</b><br>
+  <b>Jai Bajrang Bali 🗿</b>
+</p>
+
+<p align="center">
+  <img src="https://thumbs.dreamstime.com/b/vibrant-depiction-hanuman-jayanti-celebration-people-traditional-attire-dancing-around-revered-hanuman-hanuman-429877464.jpg" width="400" alt="Vibrant Hanuman Jayanti Celebration Colors">
+  <br><br>
+  <i>Only those who hear the silence... see the colors.</i><br>
+  𓂀 𓂀 𓂀
+</p>
+
+<hr style="border: 3px solid #ffd700; border-radius: 10px; box-shadow: 0 0 20px #ffd700;"> <!-- Golden shine accent -->
+
 # ☠️꧁🚩 जय श्री राम 🚩꧂☠️
+
 <p align="center">
   <img src="https://w0.peakpx.com/wallpaper/451/370/HD-wallpaper-red-eyes-devil-demons-skeleton-devil.jpg" width="300" alt="Sigma Skull Aura">
   <br><br>
