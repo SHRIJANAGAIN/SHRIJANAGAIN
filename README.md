@@ -2,8 +2,7 @@
 <p align="center">
   <img src="https://w0.peakpx.com/wallpaper/451/370/HD-wallpaper-red-eyes-devil-demons-skeleton-devil.jpg" width="300" alt="Sigma Skull Aura">
   <br><br>
-  <img src="https://4kwallpapers.com/images/wallpapers/lord-hanuman-black-2560x1440-14679.png" width="300" alt="Jai Hanuman Black Fire">
-</p>
+  
 
 <h1 align="center">𓂀 𝐬ʜʀɪᴊᴀɴ 𓂀</h1>
 
