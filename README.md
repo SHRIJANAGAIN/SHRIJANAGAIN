@@ -1,5 +1,84 @@
 # ☠️꧁🚩 जय श्री राम 🚩꧂☠️
+<p align="center">
+  <img src="https://w0.peakpx.com/wallpaper/451/370/HD-wallpaper-red-eyes-devil-demons-skeleton-devil.jpg" width="300" alt="Sigma Skull Aura">
+  <br><br>
+  <img src="https://4kwallpapers.com/images/wallpapers/lord-hanuman-black-2560x1440-14679.png" width="300" alt="Jai Hanuman Black Fire">
+</p>
 
+<h1 align="center">𓂀 𝐬ʜʀɪᴊᴀɴ 𓂀</h1>
+
+<p align="center">
+  <b>💀💀💀💀 SIGMA 🗿🗿🗿🗿</b><br>
+  <b>JAI SHREE RAM 🙏🙏🙏🙏</b>
+</p>
+
+<hr>
+
+<p align="center">
+  <b>Code runs. World burns. I stay silent.</b><br>
+  3000+ lines dropped • 0 explanations • 0 apologies
+</p>
+
+<p align="center">
+  ▰▰▰▰▰ <b>DARK THEME ETERNAL</b> ▰▰▰▰▰<br>
+  ☕ Caffeine is my blood type ॐ<br>
+  TypeScript • Next.js • tRPC • Drizzle • Edge supremacy
+</p>
+
+<p align="center">
+  <b>Architecture so clean it offends legacy code.</b>
+</p>
+
+### 🗿 WHAT I DO IN SILENCE
+- Execute legacy code in public view  
+- Assassinate bugs at 4:17 AM like it's meditation  
+- Make APIs so type-safe frontend devs touch feet in gratitude  
+- Turn 12k LOC monolith → 3-line server action (one commit, zero drama)
+
+### ॐ CURRENT MANTRA
+- Server Components ॐ  
+- Zod schema supremacy ॐ  
+- Kill every Context Provider ॐ  
+- Edge runtime addiction ॐ
+
+### 💀 SIDE QUESTS NEVER SPOKEN
+- Reverse-engineered FAANG internals (private flex)  
+- 11k LOC refactor in 9 hours (no coffee break)  
+- GLSL ray marcher while chai is boiling
+
+### 🗿 VIBE CHECKLIST
+No standups  
+No estimates  
+No “just a quick change”  
+No cap
+
+You want impossible shipped yesterday?  
+Approach in silence.
+
+I either:  
+- Build it like Bhagwan  
+- Call it maya  
+- Or vanish into the void forever
+
+<p align="center">
+  <b>Code is my jap. Silence is my tapasya.</b><br><br>
+  <b>🗿 Jai Shree Ram 🗿</b><br>
+  <b>Jai Hanuman 🗿</b><br>
+  <b>Jai Bajrang Bali 🗿</b>
+</p>
+
+<p align="center">
+  <img src="https://wallpapers.com/images/hd/jai-shree-ram-hd-black-orange-face-1uqx37hp55ct9xg3.jpg" width="400" alt="Jai Shree Ram Orange Fury">
+  <br><br>
+  <img src="https://thumbs.dreamstime.com/b/silhouette-hooded-figure-glowing-red-matrix-code-rain-black-background-evoking-cyberpunk-aesthetic-375211152.jpg" width="300" alt="Sigma Code Shadow">
+</p>
+
+<hr>
+
+<p align="center">
+  <i>Only the real ones get it.</i><br>
+  𓂀 𓂀 𓂀
+</p>
 
 ![1000018185](https://github.com/user-attachments/assets/47f9267b-ad74-4e48-92ce-fbdfdb61185b)
 
