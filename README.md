@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://thumbs.dreamstime.com/b/vibrant-neon-hanuman-ji-gada-bajrangbali-sankatmochan-rambhakt-art-jayanti-ram-navami-diwali-deepavali-hindu-389935964.jpg" width="450" alt="Neon Vibrant Hanuman Gada Glow">
+  <img src="https://github.com/SHRIJANAGAIN/SHRIJANAGAIN/blob/main/Video.Guru_20250416_221132867-ezgif.com-video-to-webp-converter.webp" width="450" alt="Neon Vibrant Hanuman Gada Glow">
   <br><br>
   <img src="https://thumbs.dreamstime.com/b/powerful-digital-artwork-divine-hanuman-standing-glowing-aura-background-galaxy-stars-golden-gada-spiritual-warrior-393457217.jpg" width="450" alt="Golden Gada Hanuman Cosmic Aura">
 </p>
