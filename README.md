@@ -51,15 +51,6 @@
 </div>
 
 
-# Save both blocks
-with open('/mnt/agents/output/block_1_hanuman_gada.md', 'w', encoding='utf-8') as f:
-    f.write(block_1)
-
-with open('/mnt/agents/output/block_2_shrijan.md', 'w', encoding='utf-8') as f:
-    f.write(block_2)
-
-print("✅ Block 1 (Hanuman Gada) saved!")
-print("✅ Block 2 (sʜʀɪᴊᴀɴ 🙂) saved!")
 
 **Core Expertise:**
 - 🎯 Production ML deployment with 95%+ accuracy
