@@ -30,7 +30,7 @@
 
 <img align="right" alt="Coding Animation" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-**Shrijan Tiwari** — Aspiring AI/ML Engineer & Full Stack Developer based in India 🇮🇳
+**Shrijan Tiwari** — Aspiring AI/ML Developer & AGI Architect | Software Engineer | Python, LangGraph, LangChain, SQL, Founder Of SKT AI LABS | 100x Engineer & Full Stack Developer based in India 🇮🇳
 
 
 
