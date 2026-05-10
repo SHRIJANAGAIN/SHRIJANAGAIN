@@ -165,7 +165,7 @@ shrijan_tiwari = {
 
 ---
 
-## 🚀 SKT AI LABS — Flagship Projects
+## Personal Projects
 
 <table>
 <tr>
