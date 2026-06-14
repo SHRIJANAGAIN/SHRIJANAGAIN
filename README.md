@@ -18,7 +18,7 @@
 [![Unstop](https://img.shields.io/badge/Unstop-Profile-FF6B00?style=for-the-badge&logo=trophy&logoColor=white)](https://unstop.com/u/Shrijanagain)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle)](https://kaggle.com/Shrijanagain)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shrijanagain.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrijanagain@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@sktailabs.in)
 
 <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="60" alt="Decorative divider" />
 
