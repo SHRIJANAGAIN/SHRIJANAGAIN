@@ -164,59 +164,6 @@ shrijan_tiwari = {
 </table>
 
 ---
-
-## Personal Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ **ST-x-LIGHTING — 1.1T Sovereign Inference Engine**
-[![GitHub](https://img.shields.io/badge/View_Code-black?logo=github&style=flat)](https://github.com/SHRIJANAGAIN/ST-x-LIGHTING)
-
-<div align="center">
-🔱
-</div>
-
-**Ultra-large scale AI inference kernel**
-
-`Python` `CUDA` `PyTorch` `Triton` `vLLM`
-
-**Key Achievements:**
-- 🧠 1.1T parameter model inference optimization
-- ⚡ Sub-50ms latency on A100 clusters
-- 🔄 Dynamic batching with continuous batching
-- 📈 3x throughput vs standard vLLM
-
-**Innovation:** Sovereign AI inference for enterprise
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ **INSTAGRAM-MASS-REPORTER**
-[![GitHub](https://img.shields.io/badge/View_Code-black?logo=github&style=flat)](https://github.com/SHRIJANAGAIN/INSTAGRAM-MASS-REPORTER-)
-
-<div align="center">
-🎯
-</div>
-
-**Super fast account reporting automation**
-
-`Python` `Selenium` `Requests` `AsyncIO`
-
-**Key Achievements:**
-- 🚀 Mass report automation (1000+ reports/min)
-- 🔒 Proxy rotation & anti-detection
-- 📱 Multi-account session management
-- ⚡ Async architecture for speed
-
-**Use Case:** Automated moderation tool
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 💻 **SKT-AMD-FILES — LLM Ecosystem**
 [![GitHub](https://img.shields.io/badge/View_Code-black?logo=github&style=flat)](https://github.com/SHRIJANAGAIN/SKT-AMD-FILES)
 
@@ -355,24 +302,6 @@ shrijan_tiwari = {
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Open+Source+Contributor+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Always+Learning+%26+Building+%F0%9F%9A%80;Turning+Coffee+into+Code+%E2%98%95)](https://git.io/typing-svg)
 
-<table>
-  <thead>
-    <tr>
-      <th scope="col">🔥 GitHub Stats</th>
-      <th scope="col">💻 Top Languages</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=SHRIJANAGAIN&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=F8D866&text_color=FFFFFF&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400" width="100%" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHRIJANAGAIN&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&langs_count=8&card_width=300&cache_seconds=86400" width="100%" alt="Top Languages" />
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 <table>
   <thead>
@@ -389,23 +318,6 @@ shrijan_tiwari = {
   </tbody>
 </table>
 
-<!-- SNAKE ANIMATION - Requires GitHub Actions workflow (see below) -->
-<table>
-  <thead>
-    <tr>
-      <th scope="col">🐍 Contribution Snake</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <img src="https://raw.githubusercontent.com/SHRIJANAGAIN/SHRIJANAGAIN/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
 
 ## 🔥 Contribution Intensity
 <div align="center">
@@ -416,36 +328,6 @@ shrijan_tiwari = {
 <div align="center">
 <img src="https://ghchart.rshah.org/00F5FF/SHRIJANAGAIN" width="98%" alt="Commit Heatmap" />
 </div>
-
----
-
-## 🏅 Achievements & Certifications
-
-<div align="center">
-
-| 🏆 Achievement | 📅 Year |
-|---|---|
-| 🥇 Winner - AMD For Developers Hackathon | 2026 |
-| 🎖️ Agent Economy On Arc | 2026 |
-| 🌟 Top Contributor - Hugging Face | 2026 |
-| 🥈 Google Cloud Rapid Agent Hackathon | 2026 |
-| 📜 Google Cloud Professional ML Engineer (In Progress) | 2026 |
-
-</div>
-
----
-
-## 🎯 2026 Goals
-
-```
-✅ Deploy 5+ production AI/ML applications
-✅ Achieve AWS ML Specialty Certification
-✅ Contribute to 10+ open-source projects
-✅ Build a GenAI startup prototype
-✅ Publish 15 technical articles on AI/ML
-✅ Mentor 20+ aspiring developers
-✅ Reach 10K+ followers on Instagram Tech
-```
 
 ---
 
@@ -489,7 +371,7 @@ Always excited to discuss AI/ML projects, hackathons, or potential collaboration
 <a href="https://unstop.com/u/Shrijanagain">
   <img src="https://img.shields.io/badge/Unstop-Profile-FF6B00?style=for-the-badge&logo=trophy&logoColor=white" />
 </a>
-<a href="mailto:shrijanagain@gmail.com">
+<a href="mailto:Shrijansidhi2@gmail.com">
   <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
