@@ -41,10 +41,6 @@ Hi there! I'm **Shrijan Kumar Tiwari**, an AI/ML enthusiast and developer from S
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" alt="Rocket icon" />
-</p>
-
 
 ###  Get In Touch
 
@@ -77,5 +73,3 @@ Always excited to discuss AI/ML projects, hackathons, or potential collaboration
   </a>
 </p> -->
 
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="40" alt="Decorative icon" />
-</div>
