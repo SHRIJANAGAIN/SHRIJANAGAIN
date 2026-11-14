@@ -2,7 +2,7 @@
 
 
 
-# MISSON2COOK #COOKER
+# MISSION2COOK # COOKING
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=200&section=header&text=Shrijan%20Tiwari&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Full%20Stack%20Dev&descSize=20&descAlignY=55" width="100%"/>
 
