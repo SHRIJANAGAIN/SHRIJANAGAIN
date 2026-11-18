@@ -92,7 +92,7 @@ Always excited to discuss AI/ML projects, hackathons, or potential collaboration
 
 # MISSION2COOK # COOKER
 
-I'm an 17-year-old in India building an AI company I'm self Taught Machine Learning Engineer. I was rejected 13 times by closed monopolies for age, for credentials, for not fitting the closed door. MISSION2COOK is my ethical answer: build the best open-source alternatives to closed tech products, one at a time, in public. No copying, no hacking, no reverse-engineering, no attacks. Open code, honest benchmarks, no lock-in, build time posted for every project. I reject the gatekeeping—not people. They rejected a builder 13 times. They get competition instead.
+I'm an 17-year-old in India building an AI company I'm self Taught Machine Learning Engineer. I was rejected 19 times by closed monopolies for age, for credentials, for not fitting the closed door. MISSION2COOK is my ethical answer: build the best open-source alternatives to closed tech products, one at a time, in public. No copying, no hacking, no reverse-engineering, no attacks. Open code, honest benchmarks, no lock-in, build time posted for every project. I reject the gatekeeping—not people. They rejected a builder 19 times. They get competition instead.
 
 ---
 
