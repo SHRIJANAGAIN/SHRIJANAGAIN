@@ -98,29 +98,24 @@ I'm an 17-year-old in India building an AI company I'm self Taught Machine Learn
 
 ## Why I Started MISSION2COOK
 
-**I am 17 years old. I am from India. I am building my own AI company.**
+On August 12, 2026, I incorporated my company. I am 18. I just passed 12th grade in February. 
 
-I did not start with funding, a network, or a famous degree. I started with ideas, a laptop, and the will to build. What I found on the other side of the door was not a lack of skill. It was a wall.
+A few years ago, I tried building a startup called GKride using closed-source APIs. I was told to stop. I was told to focus on 10th boards. I was ignored by people who thought a 12-year-old couldn't build tech.
 
-**The rejections came for different reasons, and all of them came:**
+After my 10th, I started learning Machine Learning. I built projects. I convinced my parents. But the outside world still ignored me. 
 
-- **Rejected for my age.** Told I was too young to be taken seriously, before anyone looked at what I had built.
-- **Rejected for my degree.** Told that without the "right" credentials from the "right" institution, I did not qualify regardless of working code.
-- **Rejected by closed platforms.** Told no access, no seat, no company. The door was simply not open to someone like me.
-- **19 times. Different doors. Same answer.**
+I applied to AWS 7 times. Rejected. IIT Incubation? Rejected for "no valid degree". NVIDIA Inception? Rejected. Google Cloud? Rejected. 19 times, I was told "No" by closed monopolies and institutions.
 
-Here is the truth that changed my direction: **none of those rejections were about my ability. They were about gatekeeping.**
+So I stopped asking. I stopped using closed APIs. I decided to build my own.
 
-So I stopped asking for permission.
+Today, my company is incorporated. I don't have a degree. I don't have millions in funding. I have an RTX 3060, a Colab T4, and an open-source community that never rejected me.
 
-MISSION2COOK is my answer. Not anger. Not revenge. Not shortcuts. **Competition.**
+I am currently training Speed 2 — a 0.7B Mixture-of-Experts coding model from scratch. 1B tokens done. 
 
-Instead of begging closed monopolies for a seat at their table, I will build my own—and build it in the open. For every closed, locked-down tech product, I will build an ethical open-source alternative: independently implemented, transparently documented, honestly benchmarked, and free from lock-in.
+This is #MISSION2COOK. 
+They ignored a builder 19 times. Now, they get competition.
 
-I reject the gatekeeping. I do not reject people. I have nothing against the engineers inside those companies—they build good things. My fight is with the closed door, not the people behind it.
-
-They rejected a builder 19 times. They do not get to keep the gem. **They get competition instead.**
-
+To every 18-year-old who is told they are too young, or don't have the right degree: Don't wait for their permission. Build your own table. Cook your own food.
 ---
 
 ## What MISSION2COOK Will Do
